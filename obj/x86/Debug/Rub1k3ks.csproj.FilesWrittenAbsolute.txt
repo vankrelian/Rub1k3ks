@@ -1,0 +1,16 @@
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/Rub1k3ks.exe.mdb
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/Rub1k3ks.exe
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/Rub1k3ks.exe
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/Rub1k3ks.exe.mdb
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/MonoBrickFirmware.dll
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/NetSerializer.dll
+/Users/vankrelian/Documents/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/NetSerializer.dll.mdb
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/Rub1k3ks.exe.mdb
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/Rub1k3ks.exe
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/Rub1k3ks.exe
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/obj/x86/Debug/Rub1k3ks.exe.mdb
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/MonoBrickFirmware.dll
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/NetSerializer.dll
+/Users/Gezellig/Projects/Rub1k3ks/Rub1k3ks/bin/Debug/NetSerializer.dll.mdb
